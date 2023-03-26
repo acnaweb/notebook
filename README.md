@@ -17,3 +17,4 @@ IE:
 
 - [Jupyter Notebook Best Practices for Data Science](https://www.svds.com/jupyter-notebook-best-practices-for-data-science/)
 - [ Jupyter Notebooks Tutorial | How to use them & tips and tricks! ](https://youtu.be/LW2Rye_l8L0)
+- [Five things to know about Jupyter notebooks](https://valohai.com/blog/jupyter-notebooks/)
