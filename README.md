@@ -1,20 +1,20 @@
-# Notebooks For Data Science
+# Notebooks para Data Science
 
-Organization and EDA with Jupyter Notebooks
+Organização e EDA com Jupyter Notebooks
 
 ### Versioning
 
-- Template for naming notebook files
+- Proposta de nomenclatura de arquivos de notebook.
 ```
 [ISO 8601 date]-[DS-initials]-[2-4 word description].ipynb
 ```
 
-- Example
+- Exemplo
 ```
 2023-03-26-ac-eda.ipynb
 ```
 
-#### References
+#### Referencias
 
 - [Jupyter Notebook Best Practices for Data Science](https://www.svds.com/jupyter-notebook-best-practices-for-data-science/)
 - [ Jupyter Notebooks Tutorial | How to use them & tips and tricks! ](https://youtu.be/LW2Rye_l8L0)
